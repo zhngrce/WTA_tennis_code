@@ -6,6 +6,7 @@ Code for Pioneer Data Science Research.
 2. Light dataset cleaning
 3. Read CSVs: tournament-level correlation and level-points correlation
    tournament-level correlation: https://docs.google.com/spreadsheets/d/1IMXMYlZgRn_xMLRINCQ9t4tRKDMxePx33gA_QssOYBA/edit?usp=sharing
+
    level-points correlation: https://docs.google.com/spreadsheets/d/1NZmOS_vVzJylOKGU0uQQKE6UrYzvn7DYsZFgLHCss_U/edit?usp=sharing
    
 ## Simple Model

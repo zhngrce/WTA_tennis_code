@@ -3,12 +3,15 @@ Code for Pioneer Data Science Research.
 
 # Steps Done
 1. Import dataset: WTA matches up until July 3, 2023 (https://zenodo.org/record/8174943)
-2. Light dataset cleaning
-3. Read CSVs: tournament-level correlation and level-points correlation
-   
-   tournament-level correlation: https://docs.google.com/spreadsheets/d/1IMXMYlZgRn_xMLRINCQ9t4tRKDMxePx33gA_QssOYBA/edit?usp=sharing
 
-   level-points correlation: https://docs.google.com/spreadsheets/d/1NZmOS_vVzJylOKGU0uQQKE6UrYzvn7DYsZFgLHCss_U/edit?usp=sharing
+   Dataset of 2017-2023 matches used: https://docs.google.com/spreadsheets/d/1WlTc3stL8WRWqkix1m68OQ2H-A-CkC_Zl9sjWX6kuIg/edit?usp=sharing
+   
+3. Light dataset cleaning
+4. Read CSVs: tournament-level correlation and level-points correlation
+   
+   Tournament-level correlation: https://docs.google.com/spreadsheets/d/1IMXMYlZgRn_xMLRINCQ9t4tRKDMxePx33gA_QssOYBA/edit?usp=sharing
+
+   :Level-points correlation: https://docs.google.com/spreadsheets/d/1NZmOS_vVzJylOKGU0uQQKE6UrYzvn7DYsZFgLHCss_U/edit?usp=sharing
    
 ## Simple Model
 4. Simulate total rankings for simple models
